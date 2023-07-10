@@ -2,6 +2,8 @@
 # Go
 ####
 *.sqlite
+*.sqlite-shm
+*.sqlite-wal
 # Binaries for programs and plugins
 *.exe
 *.exe~
